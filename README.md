@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Bilal Ali Waris 👋
 
-<!--
-**bilalaliwaris1214-sys/bilalaliwaris1214-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student (5th Semester) | 🔐 Aspiring Cybersecurity Professional
+📍 Lahore, Pakistan
 
-Here are some ideas to get you started:
+## 🔍 About Me
+I'm learning cybersecurity and building my skills through hands-on labs. My focus is ethical hacking, network security, and Python automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **OS:** Kali Linux, Linux CLI
+- **Tools:** Nmap, Wireshark, Burp Suite, Metasploit (lab environments)
+- **Languages:** Python, Bash
+- **Concepts:** Networking, OWASP Top 10, Vulnerability Assessment
+
+## 🎯 Currently Learning
+- TryHackMe / Hack The Box labs
+- Web application security
+- Network scanning and enumeration
+- CompTIA Security+ / CEH preparation
+
+## 📂 Projects
+- Coming soon: Python port scanner, network recon scripts, lab write-ups
+
+## 🏆 Goals
+- Become a Junior Penetration Tester or SOC Analyst
+- Learn bug bounty hunting (legal programs only)
+
+## 📫 Connect
+- GitHub: [@bilalaliwaris1214-sys](https://github.com/bilalaliwaris1214-sys)
+
+> ⚠️ All practice is done only in legal labs and authorized environments.
